@@ -1,4 +1,7 @@
 package com.example.lettercounter;
 
-public class LetterCounterService {
+import java.util.Map;
+
+public interface LetterCounterService {
+    public Map<Character, Integer> countLetters(String str);
 }
