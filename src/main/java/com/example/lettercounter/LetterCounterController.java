@@ -1,2 +1,4 @@
-package com.example.lettercounter;public class LetterCounterController {
+package com.example.lettercounter;
+
+public class LetterCounterController {
 }
